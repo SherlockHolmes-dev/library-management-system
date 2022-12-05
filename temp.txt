@@ -1,0 +1,7 @@
+
+
+id:be4fcc78-8115-11ec-93b6-12ab5ebe39e4
+title:Harry Potter and the cursed child
+publisher:JK Rowling
+authorname:Bloomsberg
+copies:2
